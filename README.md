@@ -17,5 +17,5 @@ After that to test the model I made the modelf.py script which when run in the f
 
 python3 modelf.py ISCI_0000076.jpg                              
 
-# Contributors
+# Contributing
 Arth Dubey 
