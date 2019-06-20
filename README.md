@@ -15,6 +15,6 @@ pip install requirements.txt
 While going through many methods which could be used to solve this problem like SVM, Naive Bayes or logistic regression I landed at neural networks because they give best results if we have many features. I have used balanced Architecture for the neural network using Keras library of Tensorflow. For optimisers choice I used Adam as they gave the best results in my testing. Hence I built the training model which is the script neuralclsf.py .
 After that to test the model I made the modelf.py script which when run in the following manner will classify if the skin lesion is malign or benign from the image passed as an argument. Run the test model as follows
 
-python3 modelf.py ISCI_0000076.jpg                               # pass image file as an argument
+python3 modelf.py ISCI_0000076.jpg                              
 
 
