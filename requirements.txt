@@ -1,0 +1,8 @@
+scipy
+numpy
+tensorflow
+sklearn
+imageio
+open-cv
+pillow
+h5py
